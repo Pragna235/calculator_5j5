@@ -1,7 +1,7 @@
 {
   "name": "calc_5J5",
   "version": "0.18.0",
-  "main":"calc_5J5",
+  "main":"calc",
   "repository":{
     "type":"git",
     "url":"https://github.com/Pragna235/calc_5J5"
