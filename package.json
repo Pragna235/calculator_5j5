@@ -1,10 +1,10 @@
 {
-  "name": "calculatorJ5",
+  "name": "calculator_5j5",
   "version": "0.18.0",
   "main":"calc",
   "repository":{
     "type":"git",
-    "url":"https://github.com/Pragna235/calculatorJ5.git"
+    "url":"https://github.com/Pragna235/calculator_5j5.git"
   },
   "keywords":[
     "calc",
