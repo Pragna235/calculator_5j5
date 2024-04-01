@@ -13,3 +13,4 @@
   * npm publish
 - Verify if your package is published in your npm profile.
 
+* Published Package - https://www.npmjs.com/package/calculator_5j5
