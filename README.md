@@ -6,11 +6,11 @@
 - No upper case letters should be used!!!!
 - Upload the module file and package.json in the github repository
 - Open the folder in cmd and the enter the following commands
-  * npm pack
+  *     npm pack
 - Upload the zip file added from the local folder in the github repository
-  * npm adduser
+  *     npm adduser
 - Finish the Authentication
-  * npm publish
+  *     npm publish
 - Verify if your package is published in your npm profile.
 
 * Published Package - https://www.npmjs.com/package/calculator_5j5
