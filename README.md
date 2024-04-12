@@ -14,3 +14,26 @@
 - Verify if your package is published in your npm profile.
 
 * Published Package - https://www.npmjs.com/package/calculator_5j5
+
+* To test the published package :
+*     npm i calculator_5j5
+* Write the following `index.js` file
+```
+var calculator = require('calculator_5j5');
+    
+var x = 50, y = 10;
+    
+console.log("Addition of 50 and 10 is "
+                + calculator.add(x, y));
+    
+console.log("Subtraction of 50 and 10 is "
+                + calculator.sub(x, y));
+    
+console.log("Multiplication of 50 and 10 is "
+                + calculator.mult(x, y));
+    
+console.log("Division of 50 and 10 is "
+                + calculator.div(x, y));
+```
+* Run the file using the following command
+*     node index.js
